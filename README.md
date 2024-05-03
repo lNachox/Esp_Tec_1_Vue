@@ -1,1 +1,1 @@
-Todos los archivos del proyecto estan dentro de la carpeta: ""
+Todos los archivos del proyecto estan dentro de la carpeta: "especializacion-vue"
