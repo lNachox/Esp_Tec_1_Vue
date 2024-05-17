@@ -23,8 +23,7 @@
         
         data() {
             return {
-                mensajeCambiado: false // Variable de datos que controla si se
-                muestra el párrafo
+                mensajeCambiado: false // Variable de datos que controla si se muestra el párrafo
             }
         },
         methods: {
