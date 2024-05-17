@@ -1,11 +1,11 @@
-# especializacion-vue
+# tutorial-dos
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development (correr proyecto)
+### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
